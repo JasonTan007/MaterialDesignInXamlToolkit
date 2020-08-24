@@ -5976,6 +5976,7 @@ namespace MaterialDesignThemes.Wpf
         MusicRestQuarter,
         MusicRestSixteenth,
         MusicRestWhole,
+        Mustache,
         Nail,
         Nas,
         NetworkAttachedStorage=Nas,
